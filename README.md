@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hola, I'm  moises Hernández  👋
+![Programacion](https://user-images.githubusercontent.com/15971898/90469229-e6098800-e0dd-11ea-8bc9-b68bd5b9befb.png)
+Software eingenier student , currently living in leon gto 
 
-<!--
-**MoisesFaKKe203/MoisesFaKKe203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studing at Universidad de la salle bajio
 
-Here are some ideas to get you started:
+Fun fact: I like play videogames and sports :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Programing Languages
+
+-Java
+-JavaScript
+-C#
+-C
+
+### Knowledges
+Mysql,
+Photoshop,
+Adobe Illustrator
+
+### Connect with me
+"https://twitter.com/FaKKe203"
+
+"https://www.facebook.com/Moises.Hernandez"
+  
+"https://www.youtube.com/MoisesHa20"
+
+
+
